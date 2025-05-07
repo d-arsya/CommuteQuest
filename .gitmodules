@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/HilmanThoriq/commute-quest
+[submodule "backend"]
+	path = backend
+	url = https://github.com/d-arsya/commute-quest-be
